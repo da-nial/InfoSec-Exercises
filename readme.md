@@ -51,7 +51,9 @@ sequenceDiagram
 
 Here's a glance of the UI.
 
-![Alt Text](3_malware/src/ui/static/images/UI_Overview.png)
+<div style="text-align:center;">
+  <img src="3_malware/src/ui/static/images/UI_Overview.png" alt="Sample Image" width="300" style="border-radius: 10px;">
+</div>
 
 
 ## Course Information
