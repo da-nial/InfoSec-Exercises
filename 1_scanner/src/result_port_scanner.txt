@@ -1,0 +1,9 @@
+port 75: closed
+port 76: closed
+port 77: closed
+port 78: closed
+port 79: closed
+port 80: open
+port 81: closed
+port 82: closed
+port 83: closed
